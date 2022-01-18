@@ -13,8 +13,7 @@
     <!-- END PAGE HEAD -->
     <!-- BEGIN PAGE CONTENT -->
     <div class="page-content">
-        <div class="container">
-
+        <div class="container"
 
             <!-- BEGIN SAMPLE PORTLET CONFIGURATION MODAL FORM-->
             <div class="modal fade" id="portlet-config" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -291,8 +290,7 @@
                     </div>
                     
                 </div>
-
-
+                
             </div>
 
         </div>
